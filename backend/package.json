@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "tes teknis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaenal",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "formidable": "^3.5.2",
+    "jspdf": "^2.5.2",
+    "pdf2json": "^3.1.4"
+  }
+}
